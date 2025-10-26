@@ -1,0 +1,15 @@
+[
+    {
+        "titre": "BTC du Temple",
+        "sousTitre": "Site officiel du Ball Trap Club du Temple",
+        "description": "BTC du Temple est un site vitrine conçu pour le Ball Trap Club du Temple. Il permet la publication rapide d’actualités grâce à l’intégration du CMS Netlify, facilitant la mise à jour du contenu par le client.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Netlify CMS"],
+        "details": [
+        "Mise à jour du contenu via Netlify CMS sans modification du code",
+        "Interface claire et responsive pour les visiteurs du club",
+        "Optimisé pour un hébergement statique rapide sur Netlify"
+        ],
+        "lien_code": "https://github.com/AleLBO/BTCdutemple",
+        "lien_demo": "https://btc-du-temple.netlify.app/"
+    }
+]
